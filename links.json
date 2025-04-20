@@ -1,148 +1,148 @@
 {
-   "Languages":[
+   "Languages": [
       {
-         "Name":"Russian",
-         "Id":"ru-RU"
+      "Name": "Русский",
+      "Id": "ru-RU"
       },
       {
-         "Name":"English (United States)",
-         "Id":"en-US"
+      "Name": "English (United States)",
+      "Id": "en-US"
       },
       {
-         "Name":"English (United Kingdom)",
-         "Id":"en-GB"
+      "Name": "English (United Kingdom)",
+      "Id": "en-GB"
       },
       {
-         "Name":"German",
-         "Id":"de-DE"
+      "Name": "Deutsch",
+      "Id": "de-DE"
       },
       {
-         "Name":"French",
-         "Id":"fr-FR"
+      "Name": "Français",
+      "Id": "fr-FR"
       },
       {
-         "Name":"Spanish",
-         "Id":"es-ES"
+      "Name": "Español",
+      "Id": "es-ES"
       },
       {
-         "Name":"Chinese (Simplified)",
-         "Id":"zh-CN"
+      "Name": "中文 (简体)",
+      "Id": "zh-CN"
       },
       {
-         "Name":"Chinese (Traditional)",
-         "Id":"zh-TW"
+      "Name": "中文 (繁體)",
+      "Id": "zh-TW"
       },
       {
-         "Name":"Japanese",
-         "Id":"ja-JP"
+      "Name": "日本語",
+      "Id": "ja-JP"
       },
       {
-         "Name":"Korean",
-         "Id":"ko-KR"
+      "Name": "한국어",
+      "Id": "ko-KR"
       },
       {
-         "Name":"Italian",
-         "Id":"it-IT"
+      "Name": "Italiano",
+      "Id": "it-IT"
       },
       {
-         "Name":"Portuguese (Brazil)",
-         "Id":"pt-BR"
+      "Name": "Português (Brasil)",
+      "Id": "pt-BR"
       },
       {
-         "Name":"Portuguese (Portugal)",
-         "Id":"pt-PT"
+      "Name": "Português (Portugal)",
+      "Id": "pt-PT"
       },
       {
-         "Name":"Arabic",
-         "Id":"ar-SA"
+      "Name": "العربية",
+      "Id": "ar-SA"
       },
       {
-         "Name":"Turkish",
-         "Id":"tr-TR"
+      "Name": "Türkçe",
+      "Id": "tr-TR"
       },
       {
-         "Name":"Dutch",
-         "Id":"nl-NL"
+      "Name": "Nederlands",
+      "Id": "nl-NL"
       },
       {
-         "Name":"Swedish",
-         "Id":"sv-SE"
+      "Name": "Svenska",
+      "Id": "sv-SE"
       },
       {
-         "Name":"Polish",
-         "Id":"pl-PL"
+      "Name": "Polski",
+      "Id": "pl-PL"
       },
       {
-         "Name":"Czech",
-         "Id":"cs-CZ"
+      "Name": "Čeština",
+      "Id": "cs-CZ"
       },
       {
-         "Name":"Hungarian",
-         "Id":"hu-HU"
+      "Name": "Magyar",
+      "Id": "hu-HU"
       },
       {
-         "Name":"Thai",
-         "Id":"th-TH"
+      "Name": "ไทย",
+      "Id": "th-TH"
       },
       {
-         "Name":"Finnish",
-         "Id":"fi-FI"
+      "Name": "Suomi",
+      "Id": "fi-FI"
       },
       {
-         "Name":"Norwegian",
-         "Id":"nb-NO"
+      "Name": "Norsk",
+      "Id": "nb-NO"
       },
       {
-         "Name":"Danish",
-         "Id":"da-DK"
+      "Name": "Dansk",
+      "Id": "da-DK"
       },
       {
-         "Name":"Greek",
-         "Id":"el-GR"
+      "Name": "Ελληνικά",
+      "Id": "el-GR"
       },
       {
-         "Name":"Romanian",
-         "Id":"ro-RO"
+      "Name": "Română",
+      "Id": "ro-RO"
       },
       {
-         "Name":"Ukrainian",
-         "Id":"uk-UA"
+      "Name": "Українська",
+      "Id": "uk-UA"
       },
       {
-         "Name":"Vietnamese",
-         "Id":"vi-VN"
+      "Name": "Tiếng Việt",
+      "Id": "vi-VN"
       },
       {
-         "Name":"Hindi",
-         "Id":"hi-IN"
+      "Name": "हिन्दी",
+      "Id": "hi-IN"
       },
       {
-         "Name":"Catalan",
-         "Id":"ca-ES"
+      "Name": "Català",
+      "Id": "ca-ES"
       },
       {
-         "Name":"Slovak",
-         "Id":"sk-SK"
+      "Name": "Slovenčina",
+      "Id": "sk-SK"
       },
       {
-         "Name":"Croatian",
-         "Id":"hr-HR"
+      "Name": "Hrvatski",
+      "Id": "hr-HR"
       },
       {
-         "Name":"Indonesian",
-         "Id":"id-ID"
+      "Name": "Indonesia",
+      "Id": "id-ID"
       },
       {
-         "Name":"Latvian",
-         "Id":"lv-LV"
+      "Name": "Latviešu",
+      "Id": "lv-LV"
       },
       {
-         "Name":"Lithuanian",
-         "Id":"lt-LT"
+      "Name": "Lietuvių",
+      "Id": "lt-LT"
       },
       {
-         "Name":"Serbian (Latin)",
-         "Id":"sr-Latn-RS"
+      "Name": "Српски",
+      "Id": "sr-Latn-RS"
       }
    ],
    "Products":[
