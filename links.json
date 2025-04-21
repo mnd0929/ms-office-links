@@ -1,148 +1,148 @@
 {
-   "Languages": [
+   "Languages":[
       {
-         "Name": "Русский",
-         "Id": "ru-RU"
+         "Name":"Русский",
+         "Id":"ru-RU"
       },
       {
-         "Name": "English (United States)",
-         "Id": "en-US"
+         "Name":"English (United States)",
+         "Id":"en-US"
       },
       {
-         "Name": "English (United Kingdom)",
-         "Id": "en-GB"
+         "Name":"English (United Kingdom)",
+         "Id":"en-GB"
       },
       {
-         "Name": "Deutsch",
-         "Id": "de-DE"
+         "Name":"Deutsch",
+         "Id":"de-DE"
       },
       {
-         "Name": "Français",
-         "Id": "fr-FR"
+         "Name":"Français",
+         "Id":"fr-FR"
       },
       {
-         "Name": "Español",
-         "Id": "es-ES"
+         "Name":"Español",
+         "Id":"es-ES"
       },
       {
-         "Name": "中文 (简体)",
-         "Id": "zh-CN"
+         "Name":"中文 (简体)",
+         "Id":"zh-CN"
       },
       {
-         "Name": "中文 (繁體)",
-         "Id": "zh-TW"
+         "Name":"中文 (繁體)",
+         "Id":"zh-TW"
       },
       {
-         "Name": "日本語",
-         "Id": "ja-JP"
+         "Name":"日本語",
+         "Id":"ja-JP"
       },
       {
-         "Name": "한국어",
-         "Id": "ko-KR"
+         "Name":"한국어",
+         "Id":"ko-KR"
       },
       {
-         "Name": "Italiano",
-         "Id": "it-IT"
+         "Name":"Italiano",
+         "Id":"it-IT"
       },
       {
-         "Name": "Português (Brasil)",
-         "Id": "pt-BR"
+         "Name":"Português (Brasil)",
+         "Id":"pt-BR"
       },
       {
-         "Name": "Português (Portugal)",
-         "Id": "pt-PT"
+         "Name":"Português (Portugal)",
+         "Id":"pt-PT"
       },
       {
-         "Name": "العربية",
-         "Id": "ar-SA"
+         "Name":"العربية",
+         "Id":"ar-SA"
       },
       {
-         "Name": "Türkçe",
-         "Id": "tr-TR"
+         "Name":"Türkçe",
+         "Id":"tr-TR"
       },
       {
-         "Name": "Nederlands",
-         "Id": "nl-NL"
+         "Name":"Nederlands",
+         "Id":"nl-NL"
       },
       {
-         "Name": "Svenska",
-         "Id": "sv-SE"
+         "Name":"Svenska",
+         "Id":"sv-SE"
       },
       {
-         "Name": "Polski",
-         "Id": "pl-PL"
+         "Name":"Polski",
+         "Id":"pl-PL"
       },
       {
-         "Name": "Čeština",
-         "Id": "cs-CZ"
+         "Name":"Čeština",
+         "Id":"cs-CZ"
       },
       {
-         "Name": "Magyar",
-         "Id": "hu-HU"
+         "Name":"Magyar",
+         "Id":"hu-HU"
       },
       {
-         "Name": "ไทย",
-         "Id": "th-TH"
+         "Name":"ไทย",
+         "Id":"th-TH"
       },
       {
-         "Name": "Suomi",
-         "Id": "fi-FI"
+         "Name":"Suomi",
+         "Id":"fi-FI"
       },
       {
-         "Name": "Norsk",
-         "Id": "nb-NO"
+         "Name":"Norsk",
+         "Id":"nb-NO"
       },
       {
-         "Name": "Dansk",
-         "Id": "da-DK"
+         "Name":"Dansk",
+         "Id":"da-DK"
       },
       {
-         "Name": "Ελληνικά",
-         "Id": "el-GR"
+         "Name":"Ελληνικά",
+         "Id":"el-GR"
       },
       {
-         "Name": "Română",
-         "Id": "ro-RO"
+         "Name":"Română",
+         "Id":"ro-RO"
       },
       {
-         "Name": "Українська",
-         "Id": "uk-UA"
+         "Name":"Українська",
+         "Id":"uk-UA"
       },
       {
-         "Name": "Tiếng Việt",
-         "Id": "vi-VN"
+         "Name":"Tiếng Việt",
+         "Id":"vi-VN"
       },
       {
-         "Name": "हिन्दी",
-         "Id": "hi-IN"
+         "Name":"हिन्दी",
+         "Id":"hi-IN"
       },
       {
-         "Name": "Català",
-         "Id": "ca-ES"
+         "Name":"Català",
+         "Id":"ca-ES"
       },
       {
-         "Name": "Slovenčina",
-         "Id": "sk-SK"
+         "Name":"Slovenčina",
+         "Id":"sk-SK"
       },
       {
-         "Name": "Hrvatski",
-         "Id": "hr-HR"
+         "Name":"Hrvatski",
+         "Id":"hr-HR"
       },
       {
-         "Name": "Indonesia",
-         "Id": "id-ID"
+         "Name":"Indonesia",
+         "Id":"id-ID"
       },
       {
-         "Name": "Latviešu",
-         "Id": "lv-LV"
+         "Name":"Latviešu",
+         "Id":"lv-LV"
       },
       {
-         "Name": "Lietuvių",
-         "Id": "lt-LT"
+         "Name":"Lietuvių",
+         "Id":"lt-LT"
       },
       {
-         "Name": "Српски",
-         "Id": "sr-Latn-RS"
+         "Name":"Српски",
+         "Id":"sr-Latn-RS"
       }
    ],
    "Products":[
@@ -156,19 +156,23 @@
                "Editions":[
                   {
                      "Name":"Home and Student",
-                     "RawUrl":"https://officeredir.microsoft.com/r/rlidO15C2RMediaDownload?p1=db&p2={language}&p3=HomeStudentRetail"
+                     "RawUrl":"https://officeredir.microsoft.com/r/rlidO15C2RMediaDownload?p1=db&p2={language}&p3=HomeStudentRetail",
+                     "Id":"HomeStudentRetail"
                   },
                   {
                      "Name":"Home and Business",
-                     "RawUrl":"https://officeredir.microsoft.com/r/rlidO15C2RMediaDownload?p1=db&p2={language}&p3=HomeBusinessRetail"
+                     "RawUrl":"https://officeredir.microsoft.com/r/rlidO15C2RMediaDownload?p1=db&p2={language}&p3=HomeBusinessRetail",
+                     "Id":"HomeBusinessRetail"
                   },
                   {
                      "Name":"Professional",
-                     "RawUrl":"https://officeredir.microsoft.com/r/rlidO15C2RMediaDownload?p1=db&p2={language}&p3=ProfessionalRetail"
+                     "RawUrl":"https://officeredir.microsoft.com/r/rlidO15C2RMediaDownload?p1=db&p2={language}&p3=ProfessionalRetail",
+                     "Id":"ProfessionalRetail"
                   },
                   {
                      "Name":"Professional Plus",
-                     "RawUrl":"https://officeredir.microsoft.com/r/rlidO15C2RMediaDownload?p1=db&p2={language}&p3=ProPlusRetail"
+                     "RawUrl":"https://officeredir.microsoft.com/r/rlidO15C2RMediaDownload?p1=db&p2={language}&p3=ProPlusRetail",
+                     "Id":"ProPlusRetail"
                   }
                ]
             },
@@ -177,19 +181,23 @@
                "Editions":[
                   {
                      "Name":"Home and Student",
-                     "RawUrl":"https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/{language}/HomeStudentRetail.img"
+                     "RawUrl":"https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/{language}/HomeStudentRetail.img",
+                     "Id":"HomeStudentRetail"
                   },
                   {
                      "Name":"Home and Business",
-                     "RawUrl":"https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/{language}/HomeBusinessRetail.img"
+                     "RawUrl":"https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/{language}/HomeBusinessRetail.img",
+                     "Id":"HomeBusinessRetail"
                   },
                   {
                      "Name":"Professional",
-                     "RawUrl":"https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/{language}/ProfessionalRetail.img"
+                     "RawUrl":"https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/{language}/ProfessionalRetail.img",
+                     "Id":"ProfessionalRetail"
                   },
                   {
                      "Name":"Professional Plus",
-                     "RawUrl":"https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/{language}/ProPlusRetail.img"
+                     "RawUrl":"https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/{language}/ProPlusRetail.img",
+                     "Id":"ProPlusRetail"
                   }
                ]
             },
@@ -198,19 +206,23 @@
                "Editions":[
                   {
                      "Name":"Home and Student",
-                     "RawUrl":"https://officecdn.microsoft.com/pr/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/{language}/HomeStudent2019Retail.img"
+                     "RawUrl":"https://officecdn.microsoft.com/pr/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/{language}/HomeStudent2019Retail.img",
+                     "Id":"HomeStudent2019Retail"
                   },
                   {
                      "Name":"Home and Business",
-                     "RawUrl":"https://officecdn.microsoft.com/pr/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/{language}/HomeBusiness2019Retail.img"
+                     "RawUrl":"https://officecdn.microsoft.com/pr/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/{language}/HomeBusiness2019Retail.img",
+                     "Id":"HomeBusiness2019Retail"
                   },
                   {
                      "Name":"Professional",
-                     "RawUrl":"https://officecdn.microsoft.com/pr/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/{language}/Professional2019Retail.img"
+                     "RawUrl":"https://officecdn.microsoft.com/pr/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/{language}/Professional2019Retail.img",
+                     "Id":"Professional2019Retail"
                   },
                   {
                      "Name":"Professional Plus",
-                     "RawUrl":"https://officecdn.microsoft.com/pr/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/{language}/ProPlus2019Retail.img"
+                     "RawUrl":"https://officecdn.microsoft.com/pr/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/{language}/ProPlus2019Retail.img",
+                     "Id":"ProPlus2019Retail"
                   }
                ]
             },
@@ -219,19 +231,23 @@
                "Editions":[
                   {
                      "Name":"Home and Student",
-                     "RawUrl":"https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/{language}/HomeStudent2021Retail.img"
+                     "RawUrl":"https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/{language}/HomeStudent2021Retail.img",
+                     "Id":"HomeStudent2021Retail"
                   },
                   {
                      "Name":"Home and Business",
-                     "RawUrl":"https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/{language}/HomeBusiness2021Retail.img"
+                     "RawUrl":"https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/{language}/HomeBusiness2021Retail.img",
+                     "Id":"HomeBusiness2021Retail"
                   },
                   {
                      "Name":"Professional",
-                     "RawUrl":"https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/{language}/Professional2021Retail.img"
+                     "RawUrl":"https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/{language}/Professional2021Retail.img",
+                     "Id":"Professional2021Retail"
                   },
                   {
                      "Name":"Professional Plus",
-                     "RawUrl":"https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/{language}/ProPlus2021Retail.img"
+                     "RawUrl":"https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/{language}/ProPlus2021Retail.img",
+                     "Id":"ProPlus2021Retail"
                   }
                ]
             },
@@ -240,15 +256,18 @@
                "Editions":[
                   {
                      "Name":"Home Premium",
-                     "RawUrl":"https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/{language}/O365HomePremRetail.img"
+                     "RawUrl":"https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/{language}/O365HomePremRetail.img",
+                     "Id":"O365HomePremRetail"
                   },
                   {
                      "Name":"Business",
-                     "RawUrl":"https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/{language}/O365BusinessRetail.img"
+                     "RawUrl":"https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/{language}/O365BusinessRetail.img",
+                     "Id":"O365BusinessRetail"
                   },
                   {
                      "Name":"Professional Plus",
-                     "RawUrl":"https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/{language}/O365ProPlusRetail.img"
+                     "RawUrl":"https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/{language}/O365ProPlusRetail.img",
+                     "Id":"O365ProPlusRetail"
                   }
                ]
             }
@@ -264,7 +283,8 @@
                "Editions":[
                   {
                      "Name":"Retail",
-                     "RawUrl":"https://officeredir.microsoft.com/r/rlidO15C2RMediaDownload?p1=db&p2={language}&p3=WordRetail"
+                     "RawUrl":"https://officeredir.microsoft.com/r/rlidO15C2RMediaDownload?p1=db&p2={language}&p3=WordRetail",
+                     "Id":"WordRetail"
                   }
                ]
             },
@@ -273,7 +293,8 @@
                "Editions":[
                   {
                      "Name":"Retail",
-                     "RawUrl":"https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/{language}/WordRetail.img"
+                     "RawUrl":"https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/{language}/WordRetail.img",
+                     "Id":"WordRetail"
                   }
                ]
             },
@@ -282,7 +303,8 @@
                "Editions":[
                   {
                      "Name":"Retail",
-                     "RawUrl":"https://officecdn.microsoft.com/pr/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/{language}/Word2019Retail.img"
+                     "RawUrl":"https://officecdn.microsoft.com/pr/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/{language}/Word2019Retail.img",
+                     "Id":"Word2019Retail"
                   }
                ]
             },
@@ -291,7 +313,8 @@
                "Editions":[
                   {
                      "Name":"Retail",
-                     "RawUrl":"https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/{language}/Word2021Retail.img"
+                     "RawUrl":"https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/{language}/Word2021Retail.img",
+                     "Id":"Word2021Retail"
                   }
                ]
             }
@@ -307,7 +330,8 @@
                "Editions":[
                   {
                      "Name":"Retail",
-                     "RawUrl":"https://officeredir.microsoft.com/r/rlidO15C2RMediaDownload?p1=db&p2={language}&p3=ExcelRetail"
+                     "RawUrl":"https://officeredir.microsoft.com/r/rlidO15C2RMediaDownload?p1=db&p2={language}&p3=ExcelRetail",
+                     "Id":"ExcelRetail"
                   }
                ]
             },
@@ -316,7 +340,8 @@
                "Editions":[
                   {
                      "Name":"Retail",
-                     "RawUrl":"https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/{language}/ExcelRetail.img"
+                     "RawUrl":"https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/{language}/ExcelRetail.img",
+                     "Id":"ExcelRetail"
                   }
                ]
             },
@@ -325,7 +350,8 @@
                "Editions":[
                   {
                      "Name":"Retail",
-                     "RawUrl":"https://officecdn.microsoft.com/pr/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/{language}/Excel2019Retail.img"
+                     "RawUrl":"https://officecdn.microsoft.com/pr/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/{language}/Excel2019Retail.img",
+                     "Id":"Excel2019Retail"
                   }
                ]
             },
@@ -334,7 +360,8 @@
                "Editions":[
                   {
                      "Name":"Retail",
-                     "RawUrl":"https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/{language}/Excel2021Retail.img"
+                     "RawUrl":"https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/{language}/Excel2021Retail.img",
+                     "Id":"Excel2021Retail"
                   }
                ]
             }
@@ -350,7 +377,8 @@
                "Editions":[
                   {
                      "Name":"Retail",
-                     "RawUrl":"https://officeredir.microsoft.com/r/rlidO15C2RMediaDownload?p1=db&p2={language}&p3=PowerPointRetail"
+                     "RawUrl":"https://officeredir.microsoft.com/r/rlidO15C2RMediaDownload?p1=db&p2={language}&p3=PowerPointRetail",
+                     "Id":"PowerPointRetail"
                   }
                ]
             },
@@ -359,7 +387,8 @@
                "Editions":[
                   {
                      "Name":"Retail",
-                     "RawUrl":"https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/{language}/PowerPointRetail.img"
+                     "RawUrl":"https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/{language}/PowerPointRetail.img",
+                     "Id":"PowerPointRetail"
                   }
                ]
             },
@@ -368,7 +397,8 @@
                "Editions":[
                   {
                      "Name":"Retail",
-                     "RawUrl":"https://officecdn.microsoft.com/pr/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/{language}/PowerPoint2019Retail.img"
+                     "RawUrl":"https://officecdn.microsoft.com/pr/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/{language}/PowerPoint2019Retail.img",
+                     "Id":"PowerPoint2019Retail"
                   }
                ]
             },
@@ -377,7 +407,8 @@
                "Editions":[
                   {
                      "Name":"Retail",
-                     "RawUrl":"https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/{language}/PowerPoint2021Retail.img"
+                     "RawUrl":"https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/{language}/PowerPoint2021Retail.img",
+                     "Id":"PowerPoint2021Retail"
                   }
                ]
             }
@@ -393,7 +424,8 @@
                "Editions":[
                   {
                      "Name":"Retail",
-                     "RawUrl":"https://officeredir.microsoft.com/r/rlidO15C2RMediaDownload?p1=db&p2={language}&p3=OutlookRetail"
+                     "RawUrl":"https://officeredir.microsoft.com/r/rlidO15C2RMediaDownload?p1=db&p2={language}&p3=OutlookRetail",
+                     "Id":"OutlookRetail"
                   }
                ]
             },
@@ -402,7 +434,8 @@
                "Editions":[
                   {
                      "Name":"Retail",
-                     "RawUrl":"https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/{language}/OutlookRetail.img"
+                     "RawUrl":"https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/{language}/OutlookRetail.img",
+                     "Id":"OutlookRetail"
                   }
                ]
             },
@@ -411,7 +444,8 @@
                "Editions":[
                   {
                      "Name":"Retail",
-                     "RawUrl":"https://officecdn.microsoft.com/pr/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/{language}/Outlook2019Retail.img"
+                     "RawUrl":"https://officecdn.microsoft.com/pr/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/{language}/Outlook2019Retail.img",
+                     "Id":"Outlook2019Retail"
                   }
                ]
             },
@@ -420,7 +454,8 @@
                "Editions":[
                   {
                      "Name":"Retail",
-                     "RawUrl":"https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/{language}/Outlook2021Retail.img"
+                     "RawUrl":"https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/{language}/Outlook2021Retail.img",
+                     "Id":"Outlook2021Retail"
                   }
                ]
             }
@@ -436,7 +471,8 @@
                "Editions":[
                   {
                      "Name":"Retail",
-                     "RawUrl":"https://officeredir.microsoft.com/r/rlidO15C2RMediaDownload?p1=db&p2={language}&p3=PublisherRetail"
+                     "RawUrl":"https://officeredir.microsoft.com/r/rlidO15C2RMediaDownload?p1=db&p2={language}&p3=PublisherRetail",
+                     "Id":"PublisherRetail"
                   }
                ]
             },
@@ -445,7 +481,8 @@
                "Editions":[
                   {
                      "Name":"Retail",
-                     "RawUrl":"https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/{language}/PublisherRetail.img"
+                     "RawUrl":"https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/{language}/PublisherRetail.img",
+                     "Id":"PublisherRetail"
                   }
                ]
             },
@@ -454,7 +491,8 @@
                "Editions":[
                   {
                      "Name":"Retail",
-                     "RawUrl":"https://officecdn.microsoft.com/pr/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/{language}/Publisher2019Retail.img"
+                     "RawUrl":"https://officecdn.microsoft.com/pr/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/{language}/Publisher2019Retail.img",
+                     "Id":"Publisher2019Retail"
                   }
                ]
             },
@@ -463,7 +501,8 @@
                "Editions":[
                   {
                      "Name":"Retail",
-                     "RawUrl":"https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/{language}/Publisher2021Retail.img"
+                     "RawUrl":"https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/{language}/Publisher2021Retail.img",
+                     "Id":"Publisher2021Retail"
                   }
                ]
             }
@@ -479,7 +518,8 @@
                "Editions":[
                   {
                      "Name":"Retail",
-                     "RawUrl":"https://officeredir.microsoft.com/r/rlidO15C2RMediaDownload?p1=db&p2={language}&p3=AccessRetail"
+                     "RawUrl":"https://officeredir.microsoft.com/r/rlidO15C2RMediaDownload?p1=db&p2={language}&p3=AccessRetail",
+                     "Id":"AccessRetail"
                   }
                ]
             },
@@ -488,7 +528,8 @@
                "Editions":[
                   {
                      "Name":"Retail",
-                     "RawUrl":"https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/{language}/AccessRetail.img"
+                     "RawUrl":"https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/{language}/AccessRetail.img",
+                     "Id":"AccessRetail"
                   }
                ]
             },
@@ -497,7 +538,8 @@
                "Editions":[
                   {
                      "Name":"Retail",
-                     "RawUrl":"https://officecdn.microsoft.com/pr/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/{language}/Access2019Retail.img"
+                     "RawUrl":"https://officecdn.microsoft.com/pr/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/{language}/Access2019Retail.img",
+                     "Id":"Access2019Retail"
                   }
                ]
             },
@@ -506,7 +548,8 @@
                "Editions":[
                   {
                      "Name":"Retail",
-                     "RawUrl":"https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/{language}/Access2021Retail.img"
+                     "RawUrl":"https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/{language}/Access2021Retail.img",
+                     "Id":"Access2021Retail"
                   }
                ]
             }
@@ -522,11 +565,13 @@
                "Editions":[
                   {
                      "Name":"Standard",
-                     "RawUrl":"https://officeredir.microsoft.com/r/rlidO15C2RMediaDownload?p1=db&p2={language}&p3=ProjectStdRetail"
+                     "RawUrl":"https://officeredir.microsoft.com/r/rlidO15C2RMediaDownload?p1=db&p2={language}&p3=ProjectStdRetail",
+                     "Id":"ProjectStdRetail"
                   },
                   {
                      "Name":"Professional",
-                     "RawUrl":"https://officeredir.microsoft.com/r/rlidO15C2RMediaDownload?p1=db&p2={language}&p3=ProjectProRetail"
+                     "RawUrl":"https://officeredir.microsoft.com/r/rlidO15C2RMediaDownload?p1=db&p2={language}&p3=ProjectProRetail",
+                     "Id":"ProjectProRetail"
                   }
                ]
             },
@@ -535,11 +580,13 @@
                "Editions":[
                   {
                      "Name":"Standard",
-                     "RawUrl":"https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/{language}/ProjectStdRetail.img"
+                     "RawUrl":"https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/{language}/ProjectStdRetail.img",
+                     "Id":"ProjectStdRetail"
                   },
                   {
                      "Name":"Professional",
-                     "RawUrl":"https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/{language}/ProjectProRetail.img"
+                     "RawUrl":"https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/{language}/ProjectProRetail.img",
+                     "Id":"ProjectProRetail"
                   }
                ]
             },
@@ -548,11 +595,13 @@
                "Editions":[
                   {
                      "Name":"Standard",
-                     "RawUrl":"https://officecdn.microsoft.com/pr/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/{language}/ProjectStd2019Retail.img"
+                     "RawUrl":"https://officecdn.microsoft.com/pr/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/{language}/ProjectStd2019Retail.img",
+                     "Id":"ProjectStd2019Retail"
                   },
                   {
                      "Name":"Professional",
-                     "RawUrl":"https://officecdn.microsoft.com/pr/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/{language}/ProjectPro2019Retail.img"
+                     "RawUrl":"https://officecdn.microsoft.com/pr/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/{language}/ProjectPro2019Retail.img",
+                     "Id":"ProjectPro2019Retail"
                   }
                ]
             },
@@ -561,11 +610,13 @@
                "Editions":[
                   {
                      "Name":"Standard",
-                     "RawUrl":"https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/{language}/ProjectStd2021Retail.img"
+                     "RawUrl":"https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/{language}/ProjectStd2021Retail.img",
+                     "Id":"ProjectStd2021Retail"
                   },
                   {
                      "Name":"Professional",
-                     "RawUrl":"https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/{language}/ProjectPro2021Retail.img"
+                     "RawUrl":"https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/{language}/ProjectPro2021Retail.img",
+                     "Id":"ProjectPro2021Retail"
                   }
                ]
             }
@@ -581,11 +632,13 @@
                "Editions":[
                   {
                      "Name":"Standard",
-                     "RawUrl":"https://officeredir.microsoft.com/r/rlidO15C2RMediaDownload?p1=db&p2={language}&p3=VisioStdRetail"
+                     "RawUrl":"https://officeredir.microsoft.com/r/rlidO15C2RMediaDownload?p1=db&p2={language}&p3=VisioStdRetail",
+                     "Id":"VisioStdRetail"
                   },
                   {
                      "Name":"Professional",
-                     "RawUrl":"https://officeredir.microsoft.com/r/rlidO15C2RMediaDownload?p1=db&p2={language}&p3=VisioProRetail"
+                     "RawUrl":"https://officeredir.microsoft.com/r/rlidO15C2RMediaDownload?p1=db&p2={language}&p3=VisioProRetail",
+                     "Id":"VisioProRetail"
                   }
                ]
             },
@@ -594,11 +647,13 @@
                "Editions":[
                   {
                      "Name":"Standard",
-                     "RawUrl":"https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/{language}/VisioStdRetail.img"
+                     "RawUrl":"https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/{language}/VisioStdRetail.img",
+                     "Id":"VisioStdRetail"
                   },
                   {
                      "Name":"Professional",
-                     "RawUrl":"https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/{language}/VisioProRetail.img"
+                     "RawUrl":"https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/{language}/VisioProRetail.img",
+                     "Id":"VisioProRetail"
                   }
                ]
             },
@@ -607,11 +662,13 @@
                "Editions":[
                   {
                      "Name":"Standard",
-                     "RawUrl":"https://officecdn.microsoft.com/pr/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/{language}/VisioStd2019Retail.img"
+                     "RawUrl":"https://officecdn.microsoft.com/pr/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/{language}/VisioStd2019Retail.img",
+                     "Id":"VisioStd2019Retail"
                   },
                   {
                      "Name":"Professional",
-                     "RawUrl":"https://officecdn.microsoft.com/pr/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/{language}/VisioPro2019Retail.img"
+                     "RawUrl":"https://officecdn.microsoft.com/pr/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/{language}/VisioPro2019Retail.img",
+                     "Id":"VisioPro2019Retail"
                   }
                ]
             },
@@ -620,11 +677,13 @@
                "Editions":[
                   {
                      "Name":"Standard",
-                     "RawUrl":"https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/{language}/VisioStd2021Retail.img"
+                     "RawUrl":"https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/{language}/VisioStd2021Retail.img",
+                     "Id":"VisioStd2021Retail"
                   },
                   {
                      "Name":"Professional",
-                     "RawUrl":"https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/{language}/VisioPro2021Retail.img"
+                     "RawUrl":"https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/{language}/VisioPro2021Retail.img",
+                     "Id":"VisioPro2021Retail"
                   }
                ]
             }
